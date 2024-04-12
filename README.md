@@ -1,6 +1,6 @@
 # 21.Gun
 
-
+![Açıklama](21_gun.gif)
 
 
 ## Description
